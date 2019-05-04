@@ -2,6 +2,8 @@
 
 Technical requirements: Python 3.6, Django 1.10.3,Faker 0.7.3, please see requirements.txt
 
+Example screenshot from application: workshop4_screenshot.png
+
 During workshops 4, frontend application for cataloging books using the REST method has been created . 
 The project consists of two parts: Server - written in Django, implementing REST functionality, Client - written in HTML and JavaScript, communicating with the server using AJAX. 
 The server implements the Book class with its ISBN, title, author, publisher and genre.
